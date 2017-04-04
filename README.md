@@ -76,6 +76,6 @@ Here is how it is supposed to work:
 
 ## License
 
-Copyright (c) 2014 Faria Systems Inc. distributed under MIT license
+Copyright (c) 2014 Faria Systems Inc. distributed under MIT license  
 Copyright (c) 2017 mose
 
