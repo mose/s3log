@@ -1,7 +1,7 @@
 # S3log
 
 [![Gem Version](https://badge.fury.io/rb/s3log.png)](http://rubygems.org/gems/s3log)
-[![Dependency Status](https://gemnasium.com/eduvo/s3log.png)](https://gemnasium.com/eduvo/s3log)
+[![Dependency Status](https://gemnasium.com/mose/s3log.png)](https://gemnasium.com/eduvo/s3log)
 
 Downloader for aws S3 logs and agglomerator.
 
@@ -77,3 +77,5 @@ Here is how it is supposed to work:
 ## License
 
 Copyright (c) 2014 Faria Systems Inc. distributed under MIT license
+Copyright (c) 2017 mose
+

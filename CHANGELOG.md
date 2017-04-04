@@ -1,7 +1,8 @@
 S3log Changelog
 -------------------
 
-### v0.0.5 - wip
+### v0.0.5 - 2017-04-04
+* update dependencies
 
 ### v0.0.4 - 2014-01-15
 

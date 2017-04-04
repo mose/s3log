@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mose@mose.com"]
   spec.description   = %q{Downloader for aws S3 logs.}
   spec.summary       = %q{Downloader for aws S3 logs, scheduler agglomerator.}
-  spec.homepage      = "https://github.com/eduvo/s3log"
+  spec.homepage      = "https://github.com/mose/s3log"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "thor"
   spec.add_dependency "aws-sdk"
 
-  spec.add_development_dependency "bundler", "~> 1.3"
-  spec.add_development_dependency "rspec", "~> 3.0"
+  spec.add_development_dependency "bundler"
+  spec.add_development_dependency "rspec"
   spec.add_development_dependency "rake"
 end
